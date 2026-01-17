@@ -1,16 +1,15 @@
-## Hi there 👋
+# Abandon all ye who shalt enter
+---
 
-<!--
-**sky11fca/sky11fca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me myself and I
+- Student of hellhole that is FII UAIC in Iasi
+- Exepcting, someday to pass uni starting in 2026
+- Cyber Security enthusiast
+- Coded a lot of projects (majority left unfinished)
+- Interested in DevOps (I can't properly set up SonarQube)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knows:
+programming language: TBD
+software: TBD
+services: TBD
+IDE: TBD
