@@ -1,5 +1,4 @@
 # Abandon all ye who shalt enter
----
 
 ### About me myself and I
 - Student of hellhole that is FII UAIC in Iasi
