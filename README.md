@@ -13,3 +13,9 @@ programming language: TBD
 software: TBD
 services: TBD
 IDE: TBD
+
+
+### Something Else
+
+**I use Arch BTW**
+- [My Dotfiles](https://github.com/sky11fca/Archlinux_dotfiles_ricing)
