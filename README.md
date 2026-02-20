@@ -16,9 +16,19 @@ First let me lay down my FII UAIC Achievements:
 ### Knows:
 - programming language: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - operating systems: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-- IDE: ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-- Services:  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+- IDE: ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Services:  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 
+
+
+### My Projects, Contribution and Research
+- [Offline Messenger](https://github.com/sky11fca/offline_messenger)
+- [GiftHub](https://github.com/E3-GiftHub/gifthub)
+- [Local Greetings](https://github.com/sky11fca/local_greetings)
+- [Campus Eats](https://github.com/PetruGlt/CampusEats)
+- [grep.py](https://github.com/sky11fca/grep.py)
+- [Feel Fine 😃 (ONGOING)](https://github.com/sky11fca/Feeling_Fine_dotnet)
+- [Chat and Messaging Protocols: Signal vs Olvid (ONGOING)]()
 
 ### Something Else
 
