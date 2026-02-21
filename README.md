@@ -22,15 +22,15 @@ First let me lay down my FII UAIC Achievements:
 
 
 ### My Projects, Contribution and Research
----
-Quick Disclaimer, I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
----
+
 - [Offline Messenger](https://github.com/sky11fca/offline_messenger): A TUI C written client-server application that sneds messages from a terminal to another, even if one respective user is offline
 - [GiftHub](https://github.com/E3-GiftHub/gifthub): The free and open source, peer-to-peer gifting platform built in TypeScript, React that allows hosting special events, join them, even contribute financially physically or virtually with the help of Stripe.
 - [Local Greetings](https://github.com/sky11fca/local_greetings): A PHP web application that allows users to join or even host any sport gatherings or major events
 - [Campus Eats](https://github.com/PetruGlt/CampusEats): A web application for universities where students can order food directly from canteen campus, all powered by .NET technologies
 - [grep.py](https://github.com/sky11fca/grep.py): A Python implementation of the `grep` linux command
 - [Feel Fine 😃 (ONGOING)](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for business to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
+
+> Quick Disclaimer, I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
 
 ### Something Else
 
