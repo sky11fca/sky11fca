@@ -28,7 +28,8 @@ First let me lay down my FII UAIC Achievements:
 - [Local Greetings](https://github.com/sky11fca/local_greetings): A PHP web application that allows users to join or even host any sport gatherings or major events
 - [Campus Eats](https://github.com/PetruGlt/CampusEats): A web application for universities where students can order food directly from canteen campus, all powered by .NET technologies
 - [grep.py](https://github.com/sky11fca/grep.py): A Python implementation of the `grep` linux command
-- [Feel Fine 😃 (ONGOING)](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for businesses to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
+- [UAIC AI](https://github.com/DragonLordKing/Artificial-Intelligance): A Python conversation agent capable of creating and solving basic problems taught at the Artificial Intelligence course. Comes in a nice Graphical Interface and lightweight Terminal Interface
+- [Feeling Fine 😃 (ONGOING)](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for businesses to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
 
 > Quick Disclaimer, I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
 > Saying that because I tend to forget adding a licence :^)
