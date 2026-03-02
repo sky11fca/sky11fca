@@ -8,7 +8,7 @@ First let me lay down my FII UAIC Achievements:
 
 ### About me myself and I
 - Student of FII UAIC in Iasi 🎓
-- Exepcting, graduating my Batchelor study in 2026 🤙🏻
+- Expecting, graduating my Batchelor study in 2026 🤙🏻
 - Cyber Security enthusiast 🧑‍💻
 - Coded and contributed in projects 💻
 - Interested in DevOps, Servers, Back-end development 🛜
