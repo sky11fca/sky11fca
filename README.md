@@ -23,6 +23,7 @@ First let me lay down my FII UAIC Achievements:
 
 ### My Projects, Contribution and Research
 
+- [BonoL/L-Game](https://github.com/ionicheadrian/BonoL): My first ever university project. A game of [BonoL/L game](https://en.wikipedia.org/wiki/L_game) written in C++ using sfml library. A colaboration project with [ionicheadrian](https://github.com/ionicheadrian)
 - [Offline Messenger](https://github.com/sky11fca/offline_messenger): A TUI C written client-server application that sends messages from a terminal to another, even if one respective receiver is offline. Supports message reply.
 - [GiftHub](https://github.com/E3-GiftHub/gifthub): The free and open source, peer-to-peer gifting platform built in TypeScript, React that allows hosting special events, join them, even contribute financially physically or virtually with the help of Stripe.
 - [Local Greetings](https://github.com/sky11fca/local_greetings): A PHP web application that allows users to join or even host any sport gatherings or major events
