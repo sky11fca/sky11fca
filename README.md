@@ -31,13 +31,15 @@ First let me lay down my FII UAIC Achievements:
 - [grep.py](https://github.com/sky11fca/grep.py): A Python implementation of the `grep` linux command
 - [UAIC AI](https://github.com/DragonLordKing/Artificial-Intelligance): A Python conversation agent capable of creating and solving basic problems taught at the Artificial Intelligence course. Comes in a nice Graphical Interface and lightweight Terminal Interface
 - [Feeling Fine 😃 (ONGOING)](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for businesses to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
-- UNDISCLOSED_WEB_TECHNOLOGIES_PROJECT_2: TBD
+- [Unemployment Data Visualizer](https://github.com/MeraruIoanLucian/UnemploymentVisualiser): A web application that pulls data about Unemployment rates in Romania. Developed using Vanila HTML, CSS and JS for front-end and PHP in back-end
 - UNDISCLOSED_CLOUD_COMPUTING_PROJECT: TBD
-- (PRIVATE REPOSITORY) Online chat and messaging security protocols: Signal vs Olvid (ONGOING): Batchelor thesis research paper about the comparison between Signal and Olvid protocols and further improvements suggestions
+- _(PRIVATE REPOSITORY) Online chat and messaging security protocols: Signal vs Olvid (ONGOING): Batchelor thesis research paper about the comparison between Signal and Olvid protocols and further improvements suggestions_
 
-> Quick Disclaimer, I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
-> Saying that because I tend to forget adding a licence :^)
-> *) This entry may be removed due to the fact my university holds the copyright of all student's batchelor thesis.
+### Disclaimers
+
+> - I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
+> - Saying that because I tend to forget adding a licence :^)
+> - _This entry may be removed due to the fact my university holds the copyright of all student's batchelor thesis._
 
 ### Something Else
 
