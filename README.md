@@ -31,8 +31,8 @@ First let me lay down my FII UAIC Achievements:
 - [grep.py](https://github.com/sky11fca/grep.py): A Python implementation of the `grep` linux command
 - [UAIC AI](https://github.com/DragonLordKing/Artificial-Intelligance): A Python conversation agent capable of creating and solving basic problems taught at the Artificial Intelligence course. Comes in a nice Graphical Interface and lightweight Terminal Interface
 - [Feeling Fine 😃](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for businesses to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
-- [Unemployment Data Visualizer](https://github.com/MeraruIoanLucian/UnemploymentVisualiser): A web application that pulls data about Unemployment rates in Romania. Developed using Vanila HTML, CSS and JS for front-end and PHP in back-end
-- [Enrique's Dog adoption Service (CURRENTLY ON MAINTENANCE)](https://github.com/sky11fca/Dog-Adoption-Center): A web application where you can adopt cute dogs. With our Android application, you can scan a dog with your phone and consider adopting it. Powered by Azure
+- [Unemployment Data Visualizer](https://github.com/MeraruIoanLucian/UnemploymentVisualiser): A web application that pulls data about Unemployment rates in Romania. Developed using PHP, CSS and JS
+- [Enrique's Dog adoption Service](https://github.com/sky11fca/Dog-Adoption-Center): A web application where you can adopt cute dogs. With our Android application, you can scan a dog with your phone and consider adopting it. Powered by Azure
 - _(PRIVATE REPOSITORY) Online chat and messaging security protocols: Signal vs Olvid (ONGOING): Batchelor thesis research paper about the comparison between Signal and Olvid protocols and further improvements suggestions_
 
 ### Disclaimers
