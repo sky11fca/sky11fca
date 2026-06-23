@@ -33,13 +33,11 @@ First let me lay down my FII UAIC Achievements:
 - [Feeling Fine 😃](https://github.com/sky11fca/Feeling_Fine_dotnet): A web application for businesses to display, show stats, even respond to customer feedback, using both .NET technologies and Python AI technologies
 - [Unemployment Data Visualizer](https://github.com/MeraruIoanLucian/UnemploymentVisualiser): A web application that pulls data about Unemployment rates in Romania. Developed using PHP, CSS and JS
 - [Enrique's Dog adoption Service](https://github.com/sky11fca/Dog-Adoption-Center): A web application where you can adopt cute dogs. With our Android application, you can scan a dog with your phone and consider adopting it. Powered by Azure
-- _(PRIVATE REPOSITORY) Online chat and messaging security protocols: Signal vs Olvid (ONGOING): Batchelor thesis research paper about the comparison between Signal and Olvid protocols and further improvements suggestions_
 
 ### Disclaimers
 
 > - I don't mind snooping through my project, you can code blame, create pull request, hell... fork it. I encourage to do that. I'm open for any issues.
 > - Saying that because I tend to forget adding a licence :^)
-> - _This entry may be removed due to the fact my university holds the copyright of all student's batchelor thesis._
 
 ### Something Else
 
